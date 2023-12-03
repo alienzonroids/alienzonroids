@@ -25,7 +25,6 @@
 
 - ⚡ Fun fact **I have two kittens.**
 
-- <a href="https://app.daily.dev/alienzonroids"><img src="https://api.daily.dev/devcards/d4c8420b36bf402587fae267d649c68c.png?r=106" width="400" alt="Aditya Abhiram's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
