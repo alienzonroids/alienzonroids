@@ -27,9 +27,6 @@
 
 - <a href="https://app.daily.dev/alienzonroids"><img src="https://api.daily.dev/devcards/d4c8420b36bf402587fae267d649c68c.png?r=j5k" width="400" alt="Aditya Abhiram's Dev Card"/></a>
 
-Discord Servers I'm modding:
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22698412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22698412" height="30" width="40" /></a>
