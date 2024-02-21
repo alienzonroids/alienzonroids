@@ -19,11 +19,11 @@
 
 - 💬 Ask me about **C++, JavaScript, OS development using LFS**
 
-- 📫 How to reach me **devalienzongargan on Discord**
+- 📫 How to reach me **nyxianonroids on Discord**
 
 - 🖥️ My favourite operating system [https://archlinux.org/](https://archlinux.org/)
 
-- ⚡ Fun fact **I have two kittens.**
+- ⚡ Fun fact **I used to have two kittens.**
 
 - <a href="https://app.daily.dev/alienzonroids"><img src="https://api.daily.dev/devcards/d4c8420b36bf402587fae267d649c68c.png?r=j5k" width="400" alt="Aditya Abhiram's Dev Card"/></a>
 
